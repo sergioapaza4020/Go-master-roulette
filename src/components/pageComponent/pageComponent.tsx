@@ -1,38 +1,55 @@
 "use client";
 
 import styles from "@/app/page.module.css";
-import { Box, Button } from "@mui/material";
+import { Box } from "@mui/material";
 import { SelectMui } from "../SelectMui/SelectMui";
 import { IEvent } from "@/interfaces/event.interface";
 import { ChallengeCard } from "../ChallengeCard/ChallengeCard";
 import testEvents from "@/data/test-events.json";
+import { useCategory } from "@/context/category-context";
+import { ButtonMui } from "../ButtonMui/ButtonMui";
+import React, { useState } from "react";
 
 export const PageComponent = () => {
+    const { category, setCategory } = useCategory();
+
+    const [showCard, setShowCard] = useState<boolean>(false);
+    const [randomEvent, setRandomEvent] = useState<IEvent | null>(null);
+
     const events: IEvent[] = testEvents;
+
+    const handleShowCard: React.MouseEventHandler = () => {
+        const filteredEvents: IEvent[] = events.filter((event) => event.category === category);
+        const randomEvent = filteredEvents.length > 0
+            ? filteredEvents[Math.floor(Math.random() * filteredEvents.length)]
+            : null;
+
+        setCategory(category);
+        setRandomEvent(randomEvent);
+        setShowCard(true);
+    }
 
     return (
         <Box component="div" className={styles.page}>
             <Box component="main" className={styles.main}>
                 <Box>
                     <SelectMui />
-                    <Button variant="contained">¡vamos!</Button>
+                    <ButtonMui text="¡vamos!" onClick={handleShowCard} />
                 </Box>
                 {
-                    events.map((event: IEvent, idx: number) => {
-                        return (
-                            <ChallengeCard
-                                key={idx}
-                                id={event.id}
-                                type={event.type}
-                                category={event.type}
-                                mainText={event.mainText}
-                                options={event.options}
-                                idRightOpt={event.idRightOpt}
-                                keyword={event.keyword}
-                                reward={event.reward}
-                            />
-                        );
-                    })
+                    showCard && randomEvent && (
+                        <ChallengeCard
+                            key={randomEvent.id}
+                            id={randomEvent.id}
+                            type={randomEvent.type}
+                            category={randomEvent.category}
+                            mainText={randomEvent.mainText}
+                            options={randomEvent.options}
+                            idRightOpt={randomEvent.idRightOpt}
+                            keyword={randomEvent.keyword}
+                            reward={randomEvent.reward}
+                        />
+                    )
                 }
             </Box>
         </Box>

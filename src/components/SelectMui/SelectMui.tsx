@@ -1,17 +1,19 @@
 "use client";
 
-import React from "react";
 import { Box, FormControl, InputLabel, MenuItem, Select, SelectChangeEvent } from "@mui/material";
-import { CategoriesSP } from "@/data/categories";
+import { CategoriesEN, CategoriesSP } from "@/data/categories";
+import { useCategory } from "@/context/category-context";
+import { Category } from "@/types/category.type";
 
 export const SelectMui = () => {
-    const [category, setCategory] = React.useState('');
+    const { category, setCategory } = useCategory();
 
     const handleChange = (event: SelectChangeEvent) => {
-        setCategory(event.target.value as string);
+        setCategory(event.target.value as Category);
     };
 
     const categories: string[] = CategoriesSP;
+    const values: string[] = CategoriesEN;
 
     return (
         <Box sx={{ minWidth: 120 }}>
@@ -23,13 +25,12 @@ export const SelectMui = () => {
                     value={category}
                     label="Categoría"
                     onChange={handleChange}
+                    defaultValue=""
                 >
                     {
                         categories.map((cat: string, idx: number) => {
-                            let value = (idx + 1) * 10;
-
                             return (
-                                <MenuItem value={value}>{cat}</MenuItem>
+                                <MenuItem value={values[idx]}>{cat}</MenuItem>
                             );
                         })
                     }

@@ -1,2 +1,2 @@
-export const CategoriesEN: string[] = ["Comedy", "Travel", "Fashion", "Technology", "Toys", "Gaming"];
+export const CategoriesEN: string[] = ["comedy", "travel", "fashion", "technology", "toys", "gaming"];
 export const CategoriesSP: string[] = ["Comedia", "Viajes", "Moda y Belleza", "Tecnología", "Juguetes", "Videojuegos"];
