@@ -6,7 +6,7 @@ import { createContext, ReactNode, useContext, useMemo, useState } from "react";
 const CategoryContext = createContext<CategoryContextType | undefined>(undefined);
 
 export const CategoryProvider = ({ children }: { children: ReactNode }) => {
-    const [category, setCategory] = useState<Category>("");
+    const [category, setCategory] = useState<Category>("default");
 
     const value = useMemo(() => ({ category, setCategory }), [category]);
 
