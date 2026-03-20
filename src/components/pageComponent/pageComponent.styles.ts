@@ -1,11 +1,32 @@
+import { palette } from "@/themes/pallete";
 import { SxProps, Theme } from "@mui/material";
 
-export const backgroundSx = (): SxProps<Theme> => {
+const categoryLabelMap = {
+    default: "",
+    comedy: palette.category.yellow[50],
+    travel: palette.category.green[50],
+    fashion: palette.category.pink[50],
+    technology: palette.category.blue[50],
+    toys: palette.category.skyblue[50],
+    gaming: palette.category.orange[50]
+} as const;
+
+function stateKey(colorVariant?: keyof typeof categoryLabelMap) {
+    if (colorVariant) return colorVariant;
+    return "default";
+}
+
+export const backgroundSx = (opts?: {
+    category?: keyof typeof categoryLabelMap
+}): SxProps<Theme> => {
+    const colorKey = stateKey(opts?.category);
+
     return {
         display: 'flex',
         minHeight: '100vh',
         alignItems: 'center',
-        justifyContent: 'center'
+        justifyContent: 'center',
+        backgroundColor: categoryLabelMap[colorKey]
     };
 };
 

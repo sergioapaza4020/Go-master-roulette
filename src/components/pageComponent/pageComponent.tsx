@@ -17,7 +17,7 @@ export const PageComponent = () => {
     const [showCard, setShowCard] = useState<boolean>(false);
     const [randomEvent, setRandomEvent] = useState<IEvent | null>(null);
 
-    const events: IEvent[] = testEvents;
+    const events: IEvent[] = testEvents as IEvent[];
 
     const handleShowCard: React.MouseEventHandler = () => {
         const filteredEvents: IEvent[] = events.filter((event) => event.category === category);
@@ -30,7 +30,7 @@ export const PageComponent = () => {
         setShowCard(true);
     }
 
-    const backgroundStyles = backgroundSx();
+    const backgroundStyles = backgroundSx({category});
     const foregroundStyles = foregroundSx();
     const mainBoxStyles = mainBoxSx();
 

@@ -1,4 +1,20 @@
+import { palette } from "@/themes/pallete";
 import { SxProps, Theme } from "@mui/material";
+
+const categoryLabelMap = {
+    default: "",
+    comedy: palette.category.yellow[400],
+    travel: palette.category.green[400],
+    fashion: palette.category.pink[300],
+    technology: palette.category.blue[400],
+    toys: palette.category.skyblue[400],
+    gaming: palette.category.orange[400]
+} as const;
+
+function stateKey(colorVariant?: keyof typeof categoryLabelMap) {
+    if (colorVariant) return colorVariant;
+    return "default";
+}
 
 export const cardSx = (): SxProps<Theme> => {
     return {
@@ -19,19 +35,23 @@ export const containerSx = (): SxProps<Theme> => {
 
 export const titleSx = (): SxProps<Theme> => {
     return {
-        backgroundColor: '#f00',
+        backgroundColor: palette.main.label,
         textAlign: 'center',
         alignSelf: 'stretch',
-        color: '#fff',
+        color: palette.font.white,
         textTransform: 'capitalize',
         fontWeight: '800',
         padding: '3px 20px'
     };
 };
 
-export const categorySx = (): SxProps<Theme> => {
+export const categorySx = (opts?: {
+    category?: keyof typeof categoryLabelMap
+}): SxProps<Theme> => {
+    const colorKey = stateKey(opts?.category);
+
     return {
-        backgroundColor: '#23eea0',
+        backgroundColor: categoryLabelMap[colorKey],
         alignSelf: 'self-end'
     };
 };
@@ -49,14 +69,14 @@ export const optionsSx = (): SxProps<Theme> => {
         width: '100%',
         '& .MuiButtonGroup-grouped': {
             border: 'none',
-            color: '#044fa2'
+            color: palette.font.gray
         }
     };
 };
 
 export const rewardSx = (): SxProps<Theme> => {
     return {
-        backgroundColor: 'yellow',
+        backgroundColor: palette.main.reward,
         width: '100%',
         padding: '5px 10px',
         marginTop: '100px',
@@ -75,7 +95,7 @@ export const keywordContainerSx = (): SxProps<Theme> => {
 
 export const keywordLabelSx = (): SxProps<Theme> => {
     return {
-        color: '#f00',
+        color: palette.main.label,
         textTransform: 'uppercase',
         fontWeight: '800'
     };
@@ -83,10 +103,10 @@ export const keywordLabelSx = (): SxProps<Theme> => {
 
 export const keywordSx = (): SxProps<Theme> => {
     return {
-        backgroundColor: '#f00',
+        backgroundColor: palette.main.label,
         textAlign: 'center',
         alignSelf: 'stretch',
-        color: '#fff',
+        color: palette.font.white,
         textTransform: 'capitalize',
         fontWeight: '700',
         padding: '0 20px',

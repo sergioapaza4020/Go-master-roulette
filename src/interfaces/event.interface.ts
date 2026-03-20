@@ -1,7 +1,7 @@
 export interface IEvent {
     id: number;
     type: string;
-    category: string;
+    category: "comedy" | "travel" | "fashion" | "technology" | "toys" | "gaming" | "default";
     title?: string;
     mainText: string;
     options?: string[];

@@ -13,7 +13,7 @@ export const ChallengeCard = (props: IProps) => {
     const cardStyles = cardSx();
     const containerStyles = containerSx();
     const titleStyles = titleSx();
-    const categoryStyles = categorySx();
+    const categoryStyles = categorySx({ category });
     const mainTextStyles = mainTextSx();
     const optionsStyles = optionsSx();
     const rewardStyles = rewardSx();
