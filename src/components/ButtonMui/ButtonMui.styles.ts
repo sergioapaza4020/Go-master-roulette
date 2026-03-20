@@ -1,8 +1,9 @@
 import { SxProps, Theme } from "@mui/material";
 
-export const selectSx = (): SxProps<Theme> => {
+export const buttonSx = (): SxProps<Theme> => {
     const baseStyles: SxProps<Theme> = {
-        minWidth: 250
+        minWidth: 110,
+        height: 50
     };
 
     return {

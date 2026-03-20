@@ -1,9 +1,10 @@
 "use client";
 
 import { Box, FormControl, InputLabel, MenuItem, Select, SelectChangeEvent } from "@mui/material";
-import { CategoriesEN, CategoriesSP } from "@/data/categories";
+import { CategoriesEN, CategoriesES } from "@/data/categories";
 import { useCategory } from "@/context/category-context";
 import { Category } from "@/types/category.type";
+import { selectSx } from "./SelectMui.styles";
 
 export const SelectMui = () => {
     const { category, setCategory } = useCategory();
@@ -12,11 +13,13 @@ export const SelectMui = () => {
         setCategory(event.target.value as Category);
     };
 
-    const categories: string[] = CategoriesSP;
+    const categories: string[] = CategoriesES;
     const values: string[] = CategoriesEN;
 
+    const selectStyles = selectSx();
+
     return (
-        <Box sx={{ minWidth: 120 }}>
+        <Box sx={selectStyles}>
             <FormControl fullWidth>
                 <InputLabel id="simple-select-label">Categoría</InputLabel>
                 <Select

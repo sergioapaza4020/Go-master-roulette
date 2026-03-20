@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "type": "quizz",
+        "type": "quiz",
         "category": "comedy",
         "mainText": "chiste chistoso?",
         "options": [
@@ -15,7 +15,7 @@
     },
     {
         "id": 2,
-        "type": "quizz",
+        "type": "quiz",
         "category": "travel",
         "mainText": "¿Cuántos municipios tiene Potosí?",
         "options": [
@@ -29,7 +29,7 @@
     },
     {
         "id": 3,
-        "type": "quizz",
+        "type": "quiz",
         "category": "fashion",
         "mainText": "El diablo... viste a la moda?",
         "options": [
@@ -43,7 +43,7 @@
     },
     {
         "id": 4,
-        "type": "quizz",
+        "type": "quiz",
         "category": "technology",
         "mainText": "¿soy un robot?",
         "options": [
@@ -57,7 +57,7 @@
     },
     {
         "id": 5,
-        "type": "quizz",
+        "type": "quiz",
         "category": "toys",
         "mainText": "¿Quién es el malvado doctor tocino?",
         "options": [
@@ -71,7 +71,7 @@
     },
     {
         "id": 6,
-        "type": "quizz",
+        "type": "quiz",
         "category": "gaming",
         "mainText": "¿Cuál es el primer pokémon creado?",
         "options": [
@@ -87,14 +87,16 @@
         "id": 7,
         "type": "event",
         "category": "comedy",
+        "title": "yan-ken-po!",
         "mainText": "Piedra papel o tijeras contra quien quieras",
-        "keyword": "peluche",
+        "keyword": "juego",
         "reward": "+1000 al que gane, el perdedor debe dar"
     },
     {
         "id": 8,
         "type": "event",
         "category": "travel",
+        "title": "capitales",
         "mainText": "30 capitales en 30 segundos",
         "keyword": "capital",
         "reward": "+1000"
@@ -103,6 +105,7 @@
         "id": 9,
         "type": "event",
         "category": "fashion",
+        "title": "maquillaje a ciegas",
         "mainText": "maquillate con los ojos cerrados",
         "keyword": "maquillaje",
         "reward": "+1000"
@@ -111,6 +114,7 @@
         "id": 10,
         "type": "event",
         "category": "technology",
+        "title": "trabalenguas",
         "mainText": "trabalenguas en 30 segundos",
         "keyword": "trabalengua",
         "reward": "+1000"
@@ -119,7 +123,8 @@
         "id": 11,
         "type": "event",
         "category": "toys",
-        "mainText": "mimica de un juguete, el que adivine gana, si nadie adivina tu ganas",
+        "title": "mímica",
+        "mainText": "mímica de un juguete, el que adivine gana, si nadie adivina tu ganas",
         "keyword": "juguete",
         "reward": "+1000 de cada uno si ganas, sino +1000 para cada uno de los adversarios"
     },
@@ -127,6 +132,7 @@
         "id": 12,
         "type": "event",
         "category": "gaming",
+        "title": "¡Trampa!",
         "mainText": "evento trampa! cada que escuches un 'si', deberás saltar y gritar como mario",
         "keyword": "mario",
         "reward": "+1000"

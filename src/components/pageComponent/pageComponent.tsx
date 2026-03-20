@@ -9,6 +9,7 @@ import testEvents from "@/data/test-events.json";
 import { useCategory } from "@/context/category-context";
 import { ButtonMui } from "../ButtonMui/ButtonMui";
 import React, { useState } from "react";
+import { backgroundSx, foregroundSx, mainBoxSx } from "./pageComponent.styles";
 
 export const PageComponent = () => {
     const { category, setCategory } = useCategory();
@@ -29,10 +30,14 @@ export const PageComponent = () => {
         setShowCard(true);
     }
 
+    const backgroundStyles = backgroundSx();
+    const foregroundStyles = foregroundSx();
+    const mainBoxStyles = mainBoxSx();
+
     return (
-        <Box component="div" className={styles.page}>
-            <Box component="main" className={styles.main}>
-                <Box>
+        <Box sx={backgroundStyles} component="div">
+            <Box sx={foregroundStyles} component="main">
+                <Box sx={mainBoxStyles}>
                     <SelectMui />
                     <ButtonMui text="¡vamos!" onClick={handleShowCard} />
                 </Box>
@@ -43,6 +48,7 @@ export const PageComponent = () => {
                             id={randomEvent.id}
                             type={randomEvent.type}
                             category={randomEvent.category}
+                            title={randomEvent.title}
                             mainText={randomEvent.mainText}
                             options={randomEvent.options}
                             idRightOpt={randomEvent.idRightOpt}

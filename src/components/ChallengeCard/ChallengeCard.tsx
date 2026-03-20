@@ -1,26 +1,51 @@
-import { Box, Button, ButtonGroup, Chip, Typography } from "@mui/material";
+import { Box, Button, ButtonGroup, Card, CardContent, Chip, Typography } from "@mui/material";
 import { IProps } from "./types/IProps";
+import { CategoriesEN, CategoriesES } from "@/data/categories";
+import { cardSx, categorySx, containerSx, keywordContainerSx, keywordLabelSx, keywordSx, mainTextSx, optionsSx, rewardSx, titleSx } from "./ChallengeCard.styles";
+import CheckRoundedIcon from '@mui/icons-material/CheckRounded';
 
 export const ChallengeCard = (props: IProps) => {
-    const { type, category, mainText, options, idRightOpt, keyword, reward } = props;
+    const { category, title, mainText, options, idRightOpt, keyword, reward } = props;
 
-    return (
-        <Box>
-            <Typography variant="h4">{type}</Typography>
-            <Chip label={`Categoría: ${category}`} />
-            <Typography variant="body1">{mainText}</Typography>
-            <ButtonGroup variant="text" aria-label="Options">
+    const mainTitle = title ? title : "PREGUNTA";
+    const categoryES = CategoriesES[CategoriesEN.indexOf(category)];
+
+    const cardStyles = cardSx();
+    const containerStyles = containerSx();
+    const titleStyles = titleSx();
+    const categoryStyles = categorySx();
+    const mainTextStyles = mainTextSx();
+    const optionsStyles = optionsSx();
+    const rewardStyles = rewardSx();
+    const keywordContainerStyles = keywordContainerSx();
+    const keywordLabelStyles = keywordLabelSx();
+    const keywordStyles = keywordSx();
+
+    const card = (
+        <CardContent sx={containerStyles}>
+            <Typography sx={titleStyles} variant="h5">{mainTitle}</Typography>
+            <Chip sx={categoryStyles} label={`${categoryES}`} />
+            <Typography sx={mainTextStyles} variant="body1">{mainText}</Typography>
+            <ButtonGroup sx={optionsStyles} variant="text" aria-label="Options">
                 {
                     options?.map((opt: string, idx: number) => {
-                        const isRightAns: string = idx === idRightOpt ? "✅" : "";
-                        return(
-                            <Button>{opt}{isRightAns}</Button>
+                        const icon: React.ReactNode = idx === idRightOpt ? <CheckRoundedIcon /> : "";
+                        return (
+                            <Button endIcon={icon}>{opt}</Button>
                         );
                     })
                 }
             </ButtonGroup>
-            <Chip label={keyword}></Chip>
-            <Typography variant="subtitle1">{reward}</Typography>
-        </Box>
+            <Typography sx={rewardStyles} variant="h6">{reward}</Typography>
+            <Box sx={keywordContainerStyles}>
+                <Typography sx={keywordLabelStyles} variant="subtitle1">palabra clave</Typography>
+                <Chip sx={keywordStyles} label={keyword} />
+            </Box>
+        </CardContent>
+    );
+
+    return (
+        <Card sx={cardStyles} variant="elevation">{card}</Card>
     );
 }
+
