@@ -1,0 +1,347 @@
+[
+  {
+    "id": 1,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estas apps se usa principalmente para mensajería instantánea?",
+    "options": [
+      "Telegram",
+      "WhatsApp",
+      "Messenger"
+    ],
+    "idRightOpt": 1,
+    "keyword": "mensajes",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 2,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos dispositivos sirve principalmente para conectarte a internet en casa?",
+    "options": [
+      "Módem",
+      "Repetidor",
+      "Router"
+    ],
+    "idRightOpt": 2,
+    "keyword": "internet",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 3,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estas plataformas se enfoca más en fotos que en texto?",
+    "options": [
+      "Facebook",
+      "Twitter",
+      "Instagram"
+    ],
+    "idRightOpt": 2,
+    "keyword": "fotos",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 4,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos navegadores es desarrollado por Google?",
+    "options": [
+      "Firefox",
+      "Chrome",
+      "Edge"
+    ],
+    "idRightOpt": 1,
+    "keyword": "navegador",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 5,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estas apps se usa principalmente para ver videos largos?",
+    "options": [
+      "TikTok",
+      "Instagram",
+      "YouTube"
+    ],
+    "idRightOpt": 2,
+    "keyword": "videos",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 6,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos dispositivos usas para escribir en una computadora?",
+    "options": [
+      "Mouse",
+      "Teclado",
+      "Pantalla táctil"
+    ],
+    "idRightOpt": 1,
+    "keyword": "teclado",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 7,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos servicios se usa para escuchar música en streaming?",
+    "options": [
+      "Apple Music",
+      "Spotify",
+      "YouTube Music"
+    ],
+    "idRightOpt": 1,
+    "keyword": "musica",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 8,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos dispositivos se usa principalmente para tomar fotos?",
+    "options": [
+      "Tablet",
+      "Cámara",
+      "Laptop"
+    ],
+    "idRightOpt": 1,
+    "keyword": "camara",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 9,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos términos significa conexión inalámbrica a internet?",
+    "options": [
+      "Bluetooth",
+      "Ethernet",
+      "Wi-Fi"
+    ],
+    "idRightOpt": 2,
+    "keyword": "wifi",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 10,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estas apps se usa principalmente para videollamadas?",
+    "options": [
+      "Meet",
+      "Skype",
+      "Zoom"
+    ],
+    "idRightOpt": 2,
+    "keyword": "videollamada",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 11,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos dispositivos sirve para almacenar archivos de forma portátil?",
+    "options": [
+      "Tarjeta SD",
+      "USB",
+      "Disco duro"
+    ],
+    "idRightOpt": 1,
+    "keyword": "usb",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 12,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estas plataformas es más conocida por videos cortos?",
+    "options": [
+      "Reels",
+      "TikTok",
+      "Shorts"
+    ],
+    "idRightOpt": 1,
+    "keyword": "tiktok",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 13,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos dispositivos se usa para controlar el cursor?",
+    "options": [
+      "Touchpad",
+      "Mouse",
+      "Teclado"
+    ],
+    "idRightOpt": 1,
+    "keyword": "mouse",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 14,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos dispositivos se usa para ver imágenes en la computadora?",
+    "options": [
+      "CPU",
+      "Router",
+      "Monitor"
+    ],
+    "idRightOpt": 2,
+    "keyword": "monitor",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 15,
+    "type": "quiz",
+    "category": "technology",
+    "mainText": "¿Cuál de estos necesitas para cargar un celular?",
+    "options": [
+      "Batería externa",
+      "Cable USB",
+      "Cargador"
+    ],
+    "idRightOpt": 2,
+    "keyword": "cargar",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 16,
+    "type": "event",
+    "category": "technology",
+    "title": "Duelo de Apps",
+    "mainText": "Dos jugadores se enfrentan. Tienen 30 segundos para decir apps sin repetir. El primero que repite o se queda sin ideas pierde.",
+    "keyword": "apps",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 17,
+    "type": "event",
+    "category": "technology",
+    "title": "Adivina la App",
+    "mainText": "Se describen funciones de una app en 30 segundos. El jugador debe decir cuál es antes de que acabe el tiempo.",
+    "keyword": "app",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 18,
+    "type": "event",
+    "category": "technology",
+    "title": "Duelo de Marcas",
+    "mainText": "Dos jugadores dicen marcas tecnológicas por turnos en 30 segundos. El que repite o se equivoca pierde.",
+    "keyword": "marca",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 19,
+    "type": "event",
+    "category": "technology",
+    "title": "Memoria Digital",
+    "mainText": "Se muestra una lista de dispositivos por 10 segundos. Luego debes recordar la mayor cantidad posible en 30 segundos.",
+    "keyword": "memoria",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 20,
+    "type": "event",
+    "category": "technology",
+    "title": "¿Para qué sirve?",
+    "mainText": "Se muestra un dispositivo y debes explicar su función en menos de 30 segundos.",
+    "keyword": "uso",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 21,
+    "type": "event",
+    "category": "technology",
+    "title": "Duelo de Velocidad",
+    "mainText": "Dos jugadores deben encontrar una app específica en su celular. El primero en mostrarla correctamente gana.",
+    "keyword": "velocidad",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 22,
+    "type": "event",
+    "category": "technology",
+    "title": "Verdadero o Falso Tech",
+    "mainText": "Se dicen afirmaciones sobre tecnología y debes responder si son verdaderas o falsas en 30 segundos.",
+    "keyword": "verdadero",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 23,
+    "type": "event",
+    "category": "technology",
+    "title": "Duelo de Sonidos",
+    "mainText": "Dos jugadores escuchan sonidos tecnológicos. El primero en identificar correctamente gana.",
+    "keyword": "sonido",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 24,
+    "type": "event",
+    "category": "technology",
+    "title": "Adivina el Ícono",
+    "mainText": "Se muestra un ícono de app. Tienes 30 segundos para decir cuál es.",
+    "keyword": "icono",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 25,
+    "type": "event",
+    "category": "technology",
+    "title": "Ranking Tech",
+    "mainText": "Debes ordenar dispositivos del más antiguo al más moderno en 30 segundos.",
+    "keyword": "ranking",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 26,
+    "type": "event",
+    "category": "technology",
+    "title": "Duelo de Conocimiento",
+    "mainText": "Dos jugadores responden preguntas rápidas. El primero en fallar pierde.",
+    "keyword": "trivia",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 27,
+    "type": "event",
+    "category": "technology",
+    "title": "Completa la Frase",
+    "mainText": "Se inicia una frase común de tecnología y debes completarla correctamente.",
+    "keyword": "frase",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 28,
+    "type": "event",
+    "category": "technology",
+    "title": "Duelo de Gadgets",
+    "mainText": "Dos jugadores describen gadgets por turnos sin repetir. El primero en fallar pierde.",
+    "keyword": "gadget",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 29,
+    "type": "event",
+    "category": "technology",
+    "title": "Adivina el Dispositivo",
+    "mainText": "Se describe un dispositivo y debes adivinar cuál es en menos de 30 segundos.",
+    "keyword": "dispositivo",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 30,
+    "type": "event",
+    "category": "technology",
+    "title": "Modo Experto",
+    "mainText": "Explica cómo usar una app conocida en menos de 30 segundos de forma clara.",
+    "keyword": "explicar",
+    "reward": "+6000 subs"
+  }
+]

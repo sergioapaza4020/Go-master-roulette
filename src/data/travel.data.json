@@ -1,0 +1,288 @@
+[
+  {
+    "id": 61,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué documento necesitas generalmente para viajar a otro país?",
+    "options": ["Licencia", "Pasaporte", "Tarjeta bancaria"],
+    "idRightOpt": 1,
+    "keyword": "pasaporte",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 62,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué medio de transporte es más rápido para viajes largos?",
+    "options": ["Avión", "Tren", "Bus"],
+    "idRightOpt": 0,
+    "keyword": "avion",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 63,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué objeto usas para orientarte en una ciudad desconocida?",
+    "options": ["Mapa", "Linterna", "Reloj"],
+    "idRightOpt": 0,
+    "keyword": "mapa",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 64,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué lugar es común para hospedarse en un viaje?",
+    "options": ["Hotel", "Banco", "Hospital"],
+    "idRightOpt": 0,
+    "keyword": "hotel",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 65,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué llevas para guardar tu ropa en un viaje?",
+    "options": ["Mochila", "Maleta", "Bolsa"],
+    "idRightOpt": 1,
+    "keyword": "maleta",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 66,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué haces al llegar a un aeropuerto antes de volar?",
+    "options": ["Dormir", "Hacer check-in", "Comprar ropa"],
+    "idRightOpt": 1,
+    "keyword": "checkin",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 67,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué necesitas para comunicarte en otro país si no sabes el idioma?",
+    "options": ["Traductor", "Mapa", "Maleta"],
+    "idRightOpt": 0,
+    "keyword": "idioma",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 68,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué tipo de viaje implica visitar varios lugares?",
+    "options": ["Directo", "Turístico", "Local"],
+    "idRightOpt": 1,
+    "keyword": "turismo",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 69,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué objeto usas para registrar momentos en un viaje?",
+    "options": ["Cámara", "Reloj", "Zapatos"],
+    "idRightOpt": 0,
+    "keyword": "camara",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 70,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué lugar visitas para conocer historia y cultura?",
+    "options": ["Museo", "Banco", "Supermercado"],
+    "idRightOpt": 0,
+    "keyword": "museo",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 71,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué medio es común para moverte dentro de una ciudad?",
+    "options": ["Taxi", "Avión", "Barco"],
+    "idRightOpt": 0,
+    "keyword": "transporte",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 72,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué haces antes de viajar para evitar problemas?",
+    "options": ["Empacar", "Improvisar", "Dormir"],
+    "idRightOpt": 0,
+    "keyword": "preparacion",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 73,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué tipo de lugar visitas para relajarte junto al mar?",
+    "options": ["Montaña", "Playa", "Ciudad"],
+    "idRightOpt": 1,
+    "keyword": "playa",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 74,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué usas para pagar en otro país?",
+    "options": ["Moneda local", "Tickets", "Notas escolares"],
+    "idRightOpt": 0,
+    "keyword": "dinero",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 75,
+    "type": "quiz",
+    "category": "travel",
+    "mainText": "¿Qué haces para conocer mejor un destino?",
+    "options": ["Explorar", "Dormir", "Ignorar"],
+    "idRightOpt": 0,
+    "keyword": "explorar",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+
+  {
+    "id": 76,
+    "type": "event",
+    "category": "travel",
+    "title": "Duelo de Destinos",
+    "mainText": "Dos jugadores dicen destinos turísticos por turnos durante 30 segundos sin repetir. El primero en fallar pierde.",
+    "keyword": "destinos",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 77,
+    "type": "event",
+    "category": "travel",
+    "title": "Arma tu Viaje",
+    "mainText": "Debes planear un viaje completo (destino, transporte y hospedaje) en 30 segundos.",
+    "keyword": "viaje",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 78,
+    "type": "event",
+    "category": "travel",
+    "title": "Duelo de Equipaje",
+    "mainText": "Dos jugadores dicen objetos para llevar en un viaje sin repetir. El primero en fallar pierde.",
+    "keyword": "equipaje",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 79,
+    "type": "event",
+    "category": "travel",
+    "title": "Adivina el Lugar",
+    "mainText": "Se describe un destino y debes adivinar cuál es en menos de 30 segundos.",
+    "keyword": "lugar",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 80,
+    "type": "event",
+    "category": "travel",
+    "title": "Duelo de Transporte",
+    "mainText": "Dos jugadores nombran medios de transporte sin repetir. El primero en fallar pierde.",
+    "keyword": "transporte",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 81,
+    "type": "event",
+    "category": "travel",
+    "title": "Historia de Viaje",
+    "mainText": "Cuenta una experiencia de viaje interesante en 30 segundos.",
+    "keyword": "historia",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 82,
+    "type": "event",
+    "category": "travel",
+    "title": "Duelo de Ciudades",
+    "mainText": "Dos jugadores dicen nombres de ciudades sin repetir. El primero en fallar pierde.",
+    "keyword": "ciudad",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 83,
+    "type": "event",
+    "category": "travel",
+    "title": "Empaque Exprés",
+    "mainText": "Debes decir todo lo que llevarías en un viaje específico en 30 segundos.",
+    "keyword": "empacar",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 84,
+    "type": "event",
+    "category": "travel",
+    "title": "Duelo de Idiomas",
+    "mainText": "Dos jugadores dicen palabras en diferentes idiomas sin repetir. El primero en fallar pierde.",
+    "keyword": "idioma",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 85,
+    "type": "event",
+    "category": "travel",
+    "title": "Adivina la Cultura",
+    "mainText": "Se describe una cultura o costumbre y debes identificar el país.",
+    "keyword": "cultura",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 86,
+    "type": "event",
+    "category": "travel",
+    "title": "Duelo de Comida",
+    "mainText": "Dos jugadores nombran comidas típicas de distintos países sin repetir.",
+    "keyword": "comida",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 87,
+    "type": "event",
+    "category": "travel",
+    "title": "Plan Rápido",
+    "mainText": "Debes organizar un plan turístico de un día en 30 segundos.",
+    "keyword": "plan",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 88,
+    "type": "event",
+    "category": "travel",
+    "title": "Duelo de Aventuras",
+    "mainText": "Dos jugadores dicen actividades de aventura sin repetir. El primero en fallar pierde.",
+    "keyword": "aventura",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 89,
+    "type": "event",
+    "category": "travel",
+    "title": "Destino Ideal",
+    "mainText": "Describe tu destino ideal y por qué en menos de 30 segundos.",
+    "keyword": "destino",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 90,
+    "type": "event",
+    "category": "travel",
+    "title": "Modo Explorador",
+    "mainText": "Explica cómo explorarías una ciudad nueva en 30 segundos.",
+    "keyword": "explorar",
+    "reward": "+6000 subs"
+  }
+]

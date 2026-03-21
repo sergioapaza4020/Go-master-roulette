@@ -1,11 +1,15 @@
 "use client";
 
-import styles from "@/app/page.module.css";
 import { Box } from "@mui/material";
 import { SelectMui } from "../SelectMui/SelectMui";
 import { IEvent } from "@/interfaces/event.interface";
 import { ChallengeCard } from "../ChallengeCard/ChallengeCard";
-import testEvents from "@/data/test-events.json";
+import technologyEvents from "@/data/technology.data.json";
+import comedyEvents from "@/data/comedy.data.json";
+import fashionEvents from "@/data/fashion.data.json";
+import gamingEvents from "@/data/gaming.data.json";
+import travelEvents from "@/data/travel.data.json";
+import toysEvents from "@/data/toys.data.json";
 import { useCategory } from "@/context/category-context";
 import { ButtonMui } from "../ButtonMui/ButtonMui";
 import React, { useState } from "react";
@@ -17,7 +21,13 @@ export const PageComponent = () => {
     const [showCard, setShowCard] = useState<boolean>(false);
     const [randomEvent, setRandomEvent] = useState<IEvent | null>(null);
 
-    const events: IEvent[] = testEvents as IEvent[];
+    const technologyData: IEvent[] = technologyEvents as IEvent[];
+    const comedyData: IEvent[] = comedyEvents as IEvent[];
+    const fashionData: IEvent[] = fashionEvents as IEvent[];
+    const gamingData: IEvent[] = gamingEvents as IEvent[];
+    const travelData: IEvent[] = travelEvents as IEvent[];
+    const toysData: IEvent[] = toysEvents as IEvent[];
+    const events: IEvent[] = [...technologyData, ...comedyData, ...fashionData, ...gamingData, ...travelData, ...toysData];
 
     const handleShowCard: React.MouseEventHandler = () => {
         const filteredEvents: IEvent[] = events.filter((event) => event.category === category);

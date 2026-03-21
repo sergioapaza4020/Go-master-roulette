@@ -1,0 +1,347 @@
+[
+  {
+    "id": 31,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué parte de un chiste suele provocar la risa?",
+    "options": [
+      "Introducción",
+      "Remate",
+      "Explicación"
+    ],
+    "idRightOpt": 1,
+    "keyword": "remate",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 32,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué tipo de contenido busca hacer reír rápidamente?",
+    "options": [
+      "Tutorial",
+      "Sketch",
+      "Documental"
+    ],
+    "idRightOpt": 1,
+    "keyword": "sketch",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 33,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Cuál de estos elementos es común en la comedia?",
+    "options": [
+      "Sorpresa",
+      "Silencio",
+      "Repetición exacta"
+    ],
+    "idRightOpt": 0,
+    "keyword": "sorpresa",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 34,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué hace un comediante en un show en vivo?",
+    "options": [
+      "Canta",
+      "Cuenta chistes",
+      "Pinta"
+    ],
+    "idRightOpt": 1,
+    "keyword": "comediante",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 35,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué tipo de humor exagera situaciones reales?",
+    "options": [
+      "Drama",
+      "Parodia",
+      "Suspenso"
+    ],
+    "idRightOpt": 1,
+    "keyword": "parodia",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 36,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué reacción busca principalmente la comedia?",
+    "options": [
+      "Miedo",
+      "Risa",
+      "Tristeza"
+    ],
+    "idRightOpt": 1,
+    "keyword": "risa",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 37,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué tipo de contenido usa situaciones incómodas para hacer reír?",
+    "options": [
+      "Comedia incómoda",
+      "Acción",
+      "Terror"
+    ],
+    "idRightOpt": 0,
+    "keyword": "incomodo",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 38,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué elemento hace un chiste más efectivo?",
+    "options": [
+      "Ser predecible",
+      "Ser largo",
+      "Ser inesperado"
+    ],
+    "idRightOpt": 2,
+    "keyword": "inesperado",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 39,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué formato es típico en redes sociales para comedia?",
+    "options": [
+      "Videos cortos",
+      "Ensayos largos",
+      "Noticias"
+    ],
+    "idRightOpt": 0,
+    "keyword": "videos",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 40,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué hace una imitación en comedia?",
+    "options": [
+      "Copiar a alguien",
+      "Ignorar a alguien",
+      "Inventar un idioma"
+    ],
+    "idRightOpt": 0,
+    "keyword": "imitacion",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 41,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué tipo de humor juega con palabras?",
+    "options": [
+      "Humor visual",
+      "Juego de palabras",
+      "Acción"
+    ],
+    "idRightOpt": 1,
+    "keyword": "palabras",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 42,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué suele hacer un meme?",
+    "options": [
+      "Informar",
+      "Hacer reír",
+      "Educar formalmente"
+    ],
+    "idRightOpt": 1,
+    "keyword": "meme",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 43,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué tipo de humor exagera rasgos de una persona?",
+    "options": [
+      "Caricatura",
+      "Drama",
+      "Documental"
+    ],
+    "idRightOpt": 0,
+    "keyword": "caricatura",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 44,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué hace un buen comediante con su audiencia?",
+    "options": [
+      "Conectar",
+      "Ignorar",
+      "Evitar contacto"
+    ],
+    "idRightOpt": 0,
+    "keyword": "audiencia",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 45,
+    "type": "quiz",
+    "category": "comedy",
+    "mainText": "¿Qué tipo de humor usa situaciones absurdas?",
+    "options": [
+      "Lógico",
+      "Absurdo",
+      "Formal"
+    ],
+    "idRightOpt": 1,
+    "keyword": "absurdo",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 46,
+    "type": "event",
+    "category": "comedy",
+    "title": "Duelo de Chistes",
+    "mainText": "Dos jugadores cuentan chistes por turnos durante 30 segundos. El primero que no haga reír o se quede sin ideas pierde.",
+    "keyword": "chistes",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 47,
+    "type": "event",
+    "category": "comedy",
+    "title": "Impro Rápida",
+    "mainText": "Debes improvisar una escena graciosa en menos de 30 segundos usando una palabra clave.",
+    "keyword": "impro",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 48,
+    "type": "event",
+    "category": "comedy",
+    "title": "Duelo de Imitaciones",
+    "mainText": "Dos jugadores imitan personajes. El público decide quién lo hace mejor.",
+    "keyword": "imitar",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 49,
+    "type": "event",
+    "category": "comedy",
+    "title": "Risa Prohibida",
+    "mainText": "Un jugador intenta no reír mientras otro hace reír durante 30 segundos. Si se ríe, pierde.",
+    "keyword": "risa",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 50,
+    "type": "event",
+    "category": "comedy",
+    "title": "Completa el Chiste",
+    "mainText": "Se da el inicio de un chiste y debes completarlo de forma graciosa.",
+    "keyword": "chiste",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 51,
+    "type": "event",
+    "category": "comedy",
+    "title": "Duelo de Memes",
+    "mainText": "Dos jugadores describen memes sin repetir. El primero en fallar pierde.",
+    "keyword": "meme",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 52,
+    "type": "event",
+    "category": "comedy",
+    "title": "Historia Absurda",
+    "mainText": "Debes contar una historia absurda en 30 segundos que tenga sentido al final.",
+    "keyword": "historia",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 53,
+    "type": "event",
+    "category": "comedy",
+    "title": "Duelo de Risas",
+    "mainText": "Dos jugadores intentan hacer reír al otro. El primero en reír pierde.",
+    "keyword": "risa",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 54,
+    "type": "event",
+    "category": "comedy",
+    "title": "Adivina el Chiste",
+    "mainText": "Se describe un chiste y debes adivinar el remate en 30 segundos.",
+    "keyword": "remate",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 55,
+    "type": "event",
+    "category": "comedy",
+    "title": "Duelo de Personajes",
+    "mainText": "Dos jugadores interpretan personajes graciosos sin repetir ideas.",
+    "keyword": "personaje",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 56,
+    "type": "event",
+    "category": "comedy",
+    "title": "Frase Divertida",
+    "mainText": "Debes decir una frase graciosa usando una palabra obligatoria.",
+    "keyword": "frase",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 57,
+    "type": "event",
+    "category": "comedy",
+    "title": "Duelo de Impro",
+    "mainText": "Dos jugadores improvisan escenas. El público elige al ganador.",
+    "keyword": "impro",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 58,
+    "type": "event",
+    "category": "comedy",
+    "title": "Silencio Mortal",
+    "mainText": "Debes hacer reír a los demás sin hablar durante 30 segundos.",
+    "keyword": "silencio",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 59,
+    "type": "event",
+    "category": "comedy",
+    "title": "Duelo de Creatividad",
+    "mainText": "Dos jugadores crean el chiste más original en 30 segundos.",
+    "keyword": "creatividad",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 60,
+    "type": "event",
+    "category": "comedy",
+    "title": "Modo Stand-up",
+    "mainText": "Haz un mini monólogo de comedia en 30 segundos frente al grupo.",
+    "keyword": "standup",
+    "reward": "+6000 subs"
+  }
+]

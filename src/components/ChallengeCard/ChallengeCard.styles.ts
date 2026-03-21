@@ -19,7 +19,7 @@ function stateKey(colorVariant?: keyof typeof categoryLabelMap) {
 export const cardSx = (): SxProps<Theme> => {
     return {
         borderRadius: 2.75,
-        width: '350px'
+        width: '330px'
     };
 };
 

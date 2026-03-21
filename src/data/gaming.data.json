@@ -1,0 +1,288 @@
+[
+  {
+    "id": 121,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿En qué juego aparece el personaje Mario?",
+    "options": ["Zelda", "Super Mario", "Sonic"],
+    "idRightOpt": 1,
+    "keyword": "mario",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 122,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego es conocido por construir con bloques?",
+    "options": ["Minecraft", "Fortnite", "Terraria"],
+    "idRightOpt": 0,
+    "keyword": "minecraft",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 123,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿En qué juego compites en una isla contra otros jugadores?",
+    "options": ["PUBG", "Fortnite", "Apex Legends"],
+    "idRightOpt": 1,
+    "keyword": "battle",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 124,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego trata de robar autos y explorar una ciudad?",
+    "options": ["GTA", "Need for Speed", "Watch Dogs"],
+    "idRightOpt": 0,
+    "keyword": "gta",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 125,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego es famoso por sus partidas 5 vs 5 tipo MOBA?",
+    "options": ["Dota 2", "Valorant", "League of Legends"],
+    "idRightOpt": 2,
+    "keyword": "moba",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 126,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿En qué juego usas picos y recolectas materiales?",
+    "options": ["Minecraft", "Rust", "Ark"],
+    "idRightOpt": 0,
+    "keyword": "recolectar",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 127,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego es un shooter táctico en equipos?",
+    "options": ["CS:GO", "Fortnite", "Overwatch"],
+    "idRightOpt": 0,
+    "keyword": "shooter",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 128,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego incluye personajes llamados Pokémon?",
+    "options": ["Digimon", "Pokémon", "Yu-Gi-Oh"],
+    "idRightOpt": 1,
+    "keyword": "pokemon",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 129,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego es conocido por carreras callejeras?",
+    "options": ["Forza", "Need for Speed", "Gran Turismo"],
+    "idRightOpt": 1,
+    "keyword": "carreras",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 130,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego es famoso por su modo creativo y supervivencia?",
+    "options": ["Terraria", "Minecraft", "Roblox"],
+    "idRightOpt": 1,
+    "keyword": "sandbox",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 131,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego tiene agentes con habilidades como humo y flashes?",
+    "options": ["Valorant", "CS:GO", "Rainbow Six"],
+    "idRightOpt": 0,
+    "keyword": "valorant",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 132,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego trata de sobrevivir a una tormenta cerrándose?",
+    "options": ["Fortnite", "Warzone", "PUBG"],
+    "idRightOpt": 2,
+    "keyword": "battle",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 133,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego es conocido por ser un simulador de vida?",
+    "options": ["The Sims", "Animal Crossing", "Stardew Valley"],
+    "idRightOpt": 0,
+    "keyword": "vida",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 134,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego tiene creepers que explotan?",
+    "options": ["Terraria", "Roblox", "Minecraft"],
+    "idRightOpt": 2,
+    "keyword": "creeper",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 135,
+    "type": "quiz",
+    "category": "gaming",
+    "mainText": "¿Qué juego es conocido por construir bases y sobrevivir?",
+    "options": ["Rust", "Minecraft", "Ark"],
+    "idRightOpt": 0,
+    "keyword": "survival",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+
+  {
+    "id": 136,
+    "type": "event",
+    "category": "gaming",
+    "title": "Duelo de Juegos",
+    "mainText": "Dos jugadores dicen nombres de videojuegos por turnos durante 30 segundos sin repetir. El primero en fallar pierde.",
+    "keyword": "juegos",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 137,
+    "type": "event",
+    "category": "gaming",
+    "title": "Adivina el Juego",
+    "mainText": "Se describe un videojuego (historia o mecánica) y debes adivinar cuál es en menos de 30 segundos.",
+    "keyword": "adivinar",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 138,
+    "type": "event",
+    "category": "gaming",
+    "title": "Duelo de Personajes",
+    "mainText": "Dos jugadores nombran personajes de videojuegos sin repetir. El primero en fallar pierde.",
+    "keyword": "personajes",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 139,
+    "type": "event",
+    "category": "gaming",
+    "title": "Describe y Gana",
+    "mainText": "Describe un videojuego sin decir su nombre y los demás deben adivinar.",
+    "keyword": "descripcion",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 140,
+    "type": "event",
+    "category": "gaming",
+    "title": "Duelo de Géneros",
+    "mainText": "Dos jugadores dicen géneros de videojuegos sin repetir (RPG, FPS, etc.).",
+    "keyword": "generos",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 141,
+    "type": "event",
+    "category": "gaming",
+    "title": "Speedrun Mental",
+    "mainText": "Explica cómo terminarías un juego rápido en menos de 30 segundos.",
+    "keyword": "speedrun",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 142,
+    "type": "event",
+    "category": "gaming",
+    "title": "Duelo de Consolas",
+    "mainText": "Dos jugadores dicen consolas de videojuegos sin repetir.",
+    "keyword": "consolas",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 143,
+    "type": "event",
+    "category": "gaming",
+    "title": "Memoria Gamer",
+    "mainText": "Se muestra una lista de juegos por 10 segundos. Luego debes recordar la mayor cantidad posible.",
+    "keyword": "memoria",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 144,
+    "type": "event",
+    "category": "gaming",
+    "title": "Duelo de Mapas",
+    "mainText": "Dos jugadores dicen mapas de videojuegos sin repetir.",
+    "keyword": "mapas",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 145,
+    "type": "event",
+    "category": "gaming",
+    "title": "Adivina la Mecánica",
+    "mainText": "Se describe una mecánica (loot, crafting, battle royale) y debes adivinar el juego.",
+    "keyword": "mecanica",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 146,
+    "type": "event",
+    "category": "gaming",
+    "title": "Duelo de Habilidades",
+    "mainText": "Dos jugadores nombran habilidades o poderes de personajes sin repetir.",
+    "keyword": "skills",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 147,
+    "type": "event",
+    "category": "gaming",
+    "title": "Ranking Gamer",
+    "mainText": "Ordena juegos del más difícil al más fácil en 30 segundos.",
+    "keyword": "ranking",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 148,
+    "type": "event",
+    "category": "gaming",
+    "title": "Duelo de Mods",
+    "mainText": "Dos jugadores dicen modificaciones o modos de juego sin repetir.",
+    "keyword": "mods",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 149,
+    "type": "event",
+    "category": "gaming",
+    "title": "Modo Estratega",
+    "mainText": "Explica cómo ganarías una partida competitiva en 30 segundos.",
+    "keyword": "estrategia",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 150,
+    "type": "event",
+    "category": "gaming",
+    "title": "Duelo Final",
+    "mainText": "Dos jugadores responden preguntas rápidas de videojuegos. El primero en fallar pierde.",
+    "keyword": "duelo",
+    "reward": "El perdedor da 2000 subs al ganador"
+  }
+]

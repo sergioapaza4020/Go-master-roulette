@@ -1,0 +1,288 @@
+[
+  {
+    "id": 151,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete se usa para armar figuras con piezas?",
+    "options": ["Rompecabezas", "Bloques", "Cartas"],
+    "idRightOpt": 1,
+    "keyword": "bloques",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 152,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete es redondo y se usa para jugar en equipo?",
+    "options": ["Pelota", "Muñeco", "Carrito"],
+    "idRightOpt": 0,
+    "keyword": "pelota",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 153,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete representa a una persona?",
+    "options": ["Figura", "Rompecabezas", "Pelota"],
+    "idRightOpt": 0,
+    "keyword": "figura",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 154,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete tiene piezas que encajan para formar una imagen?",
+    "options": ["Bloques", "Cartas", "Rompecabezas"],
+    "idRightOpt": 2,
+    "keyword": "rompecabezas",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 155,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete se usa para simular carreras?",
+    "options": ["Carrito", "Muñeco", "Pelota"],
+    "idRightOpt": 0,
+    "keyword": "carrito",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 156,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete gira sobre sí mismo?",
+    "options": ["Trompo", "Pelota", "Bloques"],
+    "idRightOpt": 0,
+    "keyword": "trompo",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 157,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete suele tener forma de animal de peluche?",
+    "options": ["Peluche", "Carrito", "Puzzle"],
+    "idRightOpt": 0,
+    "keyword": "peluche",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 158,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete usas para lanzar y atrapar?",
+    "options": ["Frisbee", "Bloques", "Cartas"],
+    "idRightOpt": 0,
+    "keyword": "frisbee",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 159,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete usas para jugar en una mesa con reglas?",
+    "options": ["Juego de mesa", "Pelota", "Muñeco"],
+    "idRightOpt": 0,
+    "keyword": "mesa",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 160,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete se arma para crear estructuras?",
+    "options": ["Bloques", "Cartas", "Pelota"],
+    "idRightOpt": 0,
+    "keyword": "armar",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 161,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete representa personajes ficticios?",
+    "options": ["Figuras", "Pelotas", "Cartas"],
+    "idRightOpt": 0,
+    "keyword": "personaje",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 162,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete se usa para juegos de estrategia con cartas?",
+    "options": ["Cartas", "Bloques", "Peluche"],
+    "idRightOpt": 0,
+    "keyword": "cartas",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 163,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete se empuja o controla en el suelo?",
+    "options": ["Carrito", "Rompecabezas", "Peluche"],
+    "idRightOpt": 0,
+    "keyword": "auto",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 164,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete ayuda a desarrollar la lógica?",
+    "options": ["Rompecabezas", "Pelota", "Frisbee"],
+    "idRightOpt": 0,
+    "keyword": "logica",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 165,
+    "type": "quiz",
+    "category": "toys",
+    "mainText": "¿Qué juguete suele ser suave y abrazable?",
+    "options": ["Peluche", "Carrito", "Bloques"],
+    "idRightOpt": 0,
+    "keyword": "peluche",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+
+  {
+    "id": 166,
+    "type": "event",
+    "category": "toys",
+    "title": "Duelo de Juguetes",
+    "mainText": "Dos jugadores nombran juguetes por turnos durante 30 segundos sin repetir. El primero en fallar pierde.",
+    "keyword": "juguetes",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 167,
+    "type": "event",
+    "category": "toys",
+    "title": "Adivina el Juguete",
+    "mainText": "Se describe un juguete y debes adivinar cuál es en menos de 30 segundos.",
+    "keyword": "adivinar",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 168,
+    "type": "event",
+    "category": "toys",
+    "title": "Duelo de Creatividad",
+    "mainText": "Dos jugadores inventan un juguete nuevo en 30 segundos. El público elige al ganador.",
+    "keyword": "crear",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 169,
+    "type": "event",
+    "category": "toys",
+    "title": "Construcción Rápida",
+    "mainText": "Debes describir cómo construirías algo con bloques en 30 segundos.",
+    "keyword": "bloques",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 170,
+    "type": "event",
+    "category": "toys",
+    "title": "Duelo de Juegos",
+    "mainText": "Dos jugadores dicen juegos infantiles sin repetir. El primero en fallar pierde.",
+    "keyword": "juegos",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 171,
+    "type": "event",
+    "category": "toys",
+    "title": "Memoria de Juguetes",
+    "mainText": "Se muestra una lista de juguetes por 10 segundos. Luego debes recordar la mayor cantidad posible.",
+    "keyword": "memoria",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 172,
+    "type": "event",
+    "category": "toys",
+    "title": "Duelo de Pelotas",
+    "mainText": "Dos jugadores nombran deportes con pelota sin repetir. El primero en fallar pierde.",
+    "keyword": "pelota",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 173,
+    "type": "event",
+    "category": "toys",
+    "title": "Describe y Gana",
+    "mainText": "Describe un juguete sin decir su nombre y los demás deben adivinar.",
+    "keyword": "descripcion",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 174,
+    "type": "event",
+    "category": "toys",
+    "title": "Duelo de Ideas",
+    "mainText": "Dos jugadores proponen formas de jugar con un mismo juguete sin repetir.",
+    "keyword": "ideas",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 175,
+    "type": "event",
+    "category": "toys",
+    "title": "Historia de Juego",
+    "mainText": "Cuenta una historia usando juguetes en menos de 30 segundos.",
+    "keyword": "historia",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 176,
+    "type": "event",
+    "category": "toys",
+    "title": "Duelo de Recuerdos",
+    "mainText": "Dos jugadores dicen juguetes de su infancia sin repetir. El primero en fallar pierde.",
+    "keyword": "recuerdos",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 177,
+    "type": "event",
+    "category": "toys",
+    "title": "Adivina el Juego",
+    "mainText": "Se describen reglas de un juego y debes adivinar cuál es.",
+    "keyword": "juego",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 178,
+    "type": "event",
+    "category": "toys",
+    "title": "Duelo de Velocidad",
+    "mainText": "Dos jugadores deben pensar rápidamente en un juguete según una categoría dada.",
+    "keyword": "rapidez",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 179,
+    "type": "event",
+    "category": "toys",
+    "title": "Imaginación Total",
+    "mainText": "Debes inventar un uso creativo para un juguete en 30 segundos.",
+    "keyword": "imaginacion",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 180,
+    "type": "event",
+    "category": "toys",
+    "title": "Modo Niño",
+    "mainText": "Actúa como si estuvieras jugando con un juguete y los demás deben adivinar cuál es.",
+    "keyword": "actuar",
+    "reward": "+6000 subs"
+  }
+]

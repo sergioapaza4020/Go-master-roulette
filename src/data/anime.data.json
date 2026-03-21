@@ -1,0 +1,288 @@
+[
+  {
+    "id": 181,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿En qué anime aparece Naruto Uzumaki?",
+    "options": ["Bleach", "Naruto", "One Piece"],
+    "idRightOpt": 1,
+    "keyword": "naruto",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 182,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime trata sobre piratas y un tesoro llamado One Piece?",
+    "options": ["Fairy Tail", "Naruto", "One Piece"],
+    "idRightOpt": 2,
+    "keyword": "piratas",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 183,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿En qué anime aparecen los Shinigami?",
+    "options": ["Bleach", "Dragon Ball", "Attack on Titan"],
+    "idRightOpt": 0,
+    "keyword": "shinigami",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 184,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime incluye a Goku como protagonista?",
+    "options": ["Dragon Ball", "Naruto", "One Piece"],
+    "idRightOpt": 0,
+    "keyword": "goku",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 185,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿En qué anime luchan contra titanes?",
+    "options": ["Tokyo Ghoul", "Attack on Titan", "Demon Slayer"],
+    "idRightOpt": 1,
+    "keyword": "titanes",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 186,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime tiene cazadores de demonios como protagonistas?",
+    "options": ["Jujutsu Kaisen", "Demon Slayer", "Bleach"],
+    "idRightOpt": 1,
+    "keyword": "demonios",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 187,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿En qué anime aparece un cuaderno que mata personas?",
+    "options": ["Death Note", "Code Geass", "Steins Gate"],
+    "idRightOpt": 0,
+    "keyword": "cuaderno",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 188,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime trata sobre exorcistas y maldiciones?",
+    "options": ["Demon Slayer", "Jujutsu Kaisen", "Naruto"],
+    "idRightOpt": 1,
+    "keyword": "maldiciones",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 189,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime tiene a un protagonista que quiere ser Hokage?",
+    "options": ["One Piece", "Naruto", "Bleach"],
+    "idRightOpt": 1,
+    "keyword": "hokage",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 190,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime trata sobre alquimia y hermanos?",
+    "options": ["Fullmetal Alchemist", "Attack on Titan", "Bleach"],
+    "idRightOpt": 0,
+    "keyword": "alquimia",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 191,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime incluye cartas mágicas y duelos?",
+    "options": ["Yu-Gi-Oh", "Pokemon", "Digimon"],
+    "idRightOpt": 0,
+    "keyword": "cartas",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 192,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime tiene criaturas llamadas Pokémon?",
+    "options": ["Digimon", "Pokemon", "Yo-kai Watch"],
+    "idRightOpt": 1,
+    "keyword": "pokemon",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 193,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime tiene héroes profesionales?",
+    "options": ["My Hero Academia", "Naruto", "One Punch Man"],
+    "idRightOpt": 0,
+    "keyword": "heroes",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 194,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime tiene un protagonista extremadamente fuerte desde el inicio?",
+    "options": ["Dragon Ball", "One Punch Man", "Bleach"],
+    "idRightOpt": 1,
+    "keyword": "fuerza",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 195,
+    "type": "quiz",
+    "category": "anime",
+    "mainText": "¿Qué anime trata sobre estudiantes que matan demonios y maldiciones?",
+    "options": ["Jujutsu Kaisen", "Tokyo Ghoul", "Bleach"],
+    "idRightOpt": 0,
+    "keyword": "jujutsu",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+
+  {
+    "id": 196,
+    "type": "event",
+    "category": "anime",
+    "title": "Duelo de Animes",
+    "mainText": "Dos jugadores dicen nombres de animes por turnos durante 30 segundos sin repetir. El primero en fallar pierde.",
+    "keyword": "anime",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 197,
+    "type": "event",
+    "category": "anime",
+    "title": "Adivina el Anime",
+    "mainText": "Se describe un anime y debes adivinar cuál es en menos de 30 segundos.",
+    "keyword": "adivinar",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 198,
+    "type": "event",
+    "category": "anime",
+    "title": "Duelo de Personajes",
+    "mainText": "Dos jugadores nombran personajes de anime sin repetir.",
+    "keyword": "personajes",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 199,
+    "type": "event",
+    "category": "anime",
+    "title": "Describe y Gana",
+    "mainText": "Describe un anime sin decir su nombre y los demás deben adivinar.",
+    "keyword": "descripcion",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 200,
+    "type": "event",
+    "category": "anime",
+    "title": "Duelo de Poderes",
+    "mainText": "Dos jugadores nombran poderes o habilidades de anime sin repetir.",
+    "keyword": "poder",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 201,
+    "type": "event",
+    "category": "anime",
+    "title": "Ranking Otaku",
+    "mainText": "Ordena animes del más popular al menos popular en 30 segundos.",
+    "keyword": "ranking",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 202,
+    "type": "event",
+    "category": "anime",
+    "title": "Duelo de Géneros",
+    "mainText": "Dos jugadores dicen géneros de anime sin repetir.",
+    "keyword": "genero",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 203,
+    "type": "event",
+    "category": "anime",
+    "title": "Memoria Anime",
+    "mainText": "Se muestra una lista de animes por 10 segundos y debes recordarlos.",
+    "keyword": "memoria",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 204,
+    "type": "event",
+    "category": "anime",
+    "title": "Duelo de Villanos",
+    "mainText": "Dos jugadores nombran villanos de anime sin repetir.",
+    "keyword": "villanos",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 205,
+    "type": "event",
+    "category": "anime",
+    "title": "Adivina la Escena",
+    "mainText": "Se describe una escena famosa y debes identificar el anime.",
+    "keyword": "escena",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 206,
+    "type": "event",
+    "category": "anime",
+    "title": "Duelo de Openings",
+    "mainText": "Dos jugadores mencionan openings de anime sin repetir.",
+    "keyword": "opening",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 207,
+    "type": "event",
+    "category": "anime",
+    "title": "Modo Fan",
+    "mainText": "Explica por qué un anime es bueno en 30 segundos.",
+    "keyword": "fan",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 208,
+    "type": "event",
+    "category": "anime",
+    "title": "Duelo Final",
+    "mainText": "Dos jugadores responden preguntas rápidas de anime. El primero en fallar pierde.",
+    "keyword": "duelo",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 209,
+    "type": "event",
+    "category": "anime",
+    "title": "Historia Otaku",
+    "mainText": "Cuenta la historia de un anime en menos de 30 segundos.",
+    "keyword": "historia",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 210,
+    "type": "event",
+    "category": "anime",
+    "title": "Imita Personaje",
+    "mainText": "Imita un personaje de anime y los demás deben adivinar.",
+    "keyword": "actuar",
+    "reward": "+6000 subs"
+  }
+]

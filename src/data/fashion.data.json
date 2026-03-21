@@ -1,0 +1,288 @@
+[
+  {
+    "id": 91,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué prenda se usa principalmente en los pies?",
+    "options": ["Sandalias", "Zapatos", "Botas"],
+    "idRightOpt": 1,
+    "keyword": "calzado",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 92,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Cuál de estos accesorios se usa en la muñeca?",
+    "options": ["Pulsera", "Anillo", "Collar"],
+    "idRightOpt": 0,
+    "keyword": "accesorio",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 93,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué prenda se usa en la parte superior del cuerpo?",
+    "options": ["Pantalón", "Camisa", "Falda"],
+    "idRightOpt": 1,
+    "keyword": "camisa",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 94,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué producto se usa para pintar los labios?",
+    "options": ["Base", "Rubor", "Labial"],
+    "idRightOpt": 2,
+    "keyword": "labial",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 95,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué prenda cubre las piernas?",
+    "options": ["Short", "Pantalón", "Chaqueta"],
+    "idRightOpt": 1,
+    "keyword": "pantalon",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 96,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué accesorio protege del sol en la cabeza?",
+    "options": ["Gorra", "Bufanda", "Cinturón"],
+    "idRightOpt": 0,
+    "keyword": "gorra",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 97,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué producto se usa para maquillar los ojos?",
+    "options": ["Sombras", "Base", "Polvo"],
+    "idRightOpt": 0,
+    "keyword": "maquillaje",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 98,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué prenda es típica para ocasiones formales?",
+    "options": ["Traje", "Short", "Sudadera"],
+    "idRightOpt": 0,
+    "keyword": "formal",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 99,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué accesorio se usa en el cuello?",
+    "options": ["Anillo", "Pulsera", "Collar"],
+    "idRightOpt": 2,
+    "keyword": "collar",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 100,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué prenda es común en clima frío?",
+    "options": ["Chaqueta", "Camiseta", "Short"],
+    "idRightOpt": 0,
+    "keyword": "invierno",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 101,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué producto se usa para mejorar la piel del rostro?",
+    "options": ["Crema", "Perfume", "Shampoo"],
+    "idRightOpt": 0,
+    "keyword": "piel",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 102,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué accesorio se usa para ver mejor con el sol?",
+    "options": ["Lentes de sol", "Reloj", "Anillo"],
+    "idRightOpt": 0,
+    "keyword": "lentes",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 103,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué prenda se usa en la cintura para ajustar ropa?",
+    "options": ["Cinturón", "Bufanda", "Sombrero"],
+    "idRightOpt": 0,
+    "keyword": "cinturon",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 104,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué producto se usa para dar olor agradable?",
+    "options": ["Perfume", "Crema", "Gel"],
+    "idRightOpt": 0,
+    "keyword": "perfume",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 105,
+    "type": "quiz",
+    "category": "fashion",
+    "mainText": "¿Qué accesorio se usa en las manos para estilo?",
+    "options": ["Anillo", "Collar", "Sombrero"],
+    "idRightOpt": 0,
+    "keyword": "anillo",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+
+  {
+    "id": 106,
+    "type": "event",
+    "category": "fashion",
+    "title": "Duelo de Estilo",
+    "mainText": "Dos jugadores describen outfits por turnos durante 30 segundos sin repetir ideas. El primero en fallar pierde.",
+    "keyword": "estilo",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 107,
+    "type": "event",
+    "category": "fashion",
+    "title": "Arma tu Outfit",
+    "mainText": "Debes crear un outfit completo en 30 segundos usando una temática dada.",
+    "keyword": "outfit",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 108,
+    "type": "event",
+    "category": "fashion",
+    "title": "Duelo de Marcas",
+    "mainText": "Dos jugadores dicen marcas de ropa por turnos. El primero en repetir o fallar pierde.",
+    "keyword": "marca",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 109,
+    "type": "event",
+    "category": "fashion",
+    "title": "Adivina la Prenda",
+    "mainText": "Se describe una prenda y debes adivinar cuál es en menos de 30 segundos.",
+    "keyword": "prenda",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 110,
+    "type": "event",
+    "category": "fashion",
+    "title": "Duelo de Colores",
+    "mainText": "Dos jugadores combinan colores para outfits sin repetir combinaciones. El primero en fallar pierde.",
+    "keyword": "colores",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 111,
+    "type": "event",
+    "category": "fashion",
+    "title": "Belleza Exprés",
+    "mainText": "Describe una rutina de belleza rápida en menos de 30 segundos.",
+    "keyword": "belleza",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 112,
+    "type": "event",
+    "category": "fashion",
+    "title": "Duelo de Accesorios",
+    "mainText": "Dos jugadores nombran accesorios sin repetir. El primero en fallar pierde.",
+    "keyword": "accesorios",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 113,
+    "type": "event",
+    "category": "fashion",
+    "title": "Completa el Look",
+    "mainText": "Se te da un outfit incompleto y debes completarlo correctamente.",
+    "keyword": "look",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 114,
+    "type": "event",
+    "category": "fashion",
+    "title": "Duelo de Tendencias",
+    "mainText": "Dos jugadores mencionan tendencias actuales sin repetir. El primero en fallar pierde.",
+    "keyword": "tendencias",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 115,
+    "type": "event",
+    "category": "fashion",
+    "title": "Adivina el Producto",
+    "mainText": "Se describe un producto de belleza y debes adivinar cuál es.",
+    "keyword": "producto",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 116,
+    "type": "event",
+    "category": "fashion",
+    "title": "Duelo de Creatividad",
+    "mainText": "Dos jugadores crean outfits originales en 30 segundos. El público elige ganador.",
+    "keyword": "creatividad",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 117,
+    "type": "event",
+    "category": "fashion",
+    "title": "Estilo Rápido",
+    "mainText": "Debes adaptar tu outfit a una situación específica en 30 segundos.",
+    "keyword": "estilo",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 118,
+    "type": "event",
+    "category": "fashion",
+    "title": "Duelo de Prendas",
+    "mainText": "Dos jugadores dicen prendas de ropa sin repetir. El primero en fallar pierde.",
+    "keyword": "ropa",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 119,
+    "type": "event",
+    "category": "fashion",
+    "title": "Cambio de Look",
+    "mainText": "Describe cómo transformarías un look casual a uno formal en 30 segundos.",
+    "keyword": "look",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 120,
+    "type": "event",
+    "category": "fashion",
+    "title": "Modo Fashionista",
+    "mainText": "Explica una tendencia de moda en menos de 30 segundos de forma clara.",
+    "keyword": "fashion",
+    "reward": "+6000 subs"
+  }
+]

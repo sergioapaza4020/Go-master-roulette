@@ -1,0 +1,288 @@
+[
+  {
+    "id": 211,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿En qué serie aparece el personaje Walter White?",
+    "options": ["Breaking Bad", "Ozark", "Better Call Saul"],
+    "idRightOpt": 0,
+    "keyword": "walter",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 212,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué película tiene un parque con dinosaurios?",
+    "options": ["King Kong", "Jurassic Park", "Godzilla"],
+    "idRightOpt": 1,
+    "keyword": "dinosaurios",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 213,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿En qué serie aparecen dragones y tronos?",
+    "options": ["The Witcher", "Game of Thrones", "Vikings"],
+    "idRightOpt": 1,
+    "keyword": "tronos",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 214,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué película trata sobre un barco que se hunde?",
+    "options": ["Titanic", "Poseidon", "Piratas del Caribe"],
+    "idRightOpt": 0,
+    "keyword": "barco",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 215,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué serie tiene un grupo de amigos en Nueva York?",
+    "options": ["How I Met Your Mother", "Friends", "Brooklyn 99"],
+    "idRightOpt": 1,
+    "keyword": "friends",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 216,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué película incluye superhéroes llamados Avengers?",
+    "options": ["Justice League", "Avengers", "X-Men"],
+    "idRightOpt": 1,
+    "keyword": "avengers",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 217,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué serie trata sobre una escuela de magia?",
+    "options": ["Harry Potter", "The Witcher", "Merlín"],
+    "idRightOpt": 0,
+    "keyword": "magia",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 218,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué película tiene robots que se transforman?",
+    "options": ["Transformers", "Terminator", "Matrix"],
+    "idRightOpt": 0,
+    "keyword": "robots",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 219,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué serie trata sobre cosas sobrenaturales en un pueblo?",
+    "options": ["Dark", "Stranger Things", "Lost"],
+    "idRightOpt": 1,
+    "keyword": "misterio",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 220,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué película trata sobre un parque de diversiones con juguetes vivos?",
+    "options": ["Toy Story", "Cars", "Coco"],
+    "idRightOpt": 0,
+    "keyword": "juguetes",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 221,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué serie tiene zombis en un mundo postapocalíptico?",
+    "options": ["The Walking Dead", "The Last of Us", "Resident Evil"],
+    "idRightOpt": 0,
+    "keyword": "zombies",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 222,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué película trata sobre sueños dentro de sueños?",
+    "options": ["Inception", "Matrix", "Interstellar"],
+    "idRightOpt": 0,
+    "keyword": "sueños",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 223,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué serie trata sobre una familia amarilla animada?",
+    "options": ["Futurama", "Los Simpson", "Family Guy"],
+    "idRightOpt": 1,
+    "keyword": "simpson",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 224,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué película tiene un anillo poderoso?",
+    "options": ["El Hobbit", "El Señor de los Anillos", "Harry Potter"],
+    "idRightOpt": 1,
+    "keyword": "anillo",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+  {
+    "id": 225,
+    "type": "quiz",
+    "category": "tv",
+    "mainText": "¿Qué serie trata sobre un profesor que cocina droga?",
+    "options": ["Breaking Bad", "Narcos", "Ozark"],
+    "idRightOpt": 0,
+    "keyword": "droga",
+    "reward": "+6000 subs (+3000 extra si es tu categoría)"
+  },
+
+  {
+    "id": 226,
+    "type": "event",
+    "category": "tv",
+    "title": "Duelo de Series",
+    "mainText": "Dos jugadores dicen nombres de series por turnos durante 30 segundos sin repetir.",
+    "keyword": "series",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 227,
+    "type": "event",
+    "category": "tv",
+    "title": "Duelo de Películas",
+    "mainText": "Dos jugadores dicen películas sin repetir. El primero en fallar pierde.",
+    "keyword": "peliculas",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 228,
+    "type": "event",
+    "category": "tv",
+    "title": "Adivina la Serie",
+    "mainText": "Se describe una serie y debes adivinar cuál es en menos de 30 segundos.",
+    "keyword": "adivinar",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 229,
+    "type": "event",
+    "category": "tv",
+    "title": "Adivina la Película",
+    "mainText": "Se describe una película y debes adivinar cuál es en menos de 30 segundos.",
+    "keyword": "pelicula",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 230,
+    "type": "event",
+    "category": "tv",
+    "title": "Duelo de Personajes",
+    "mainText": "Dos jugadores nombran personajes de series o películas sin repetir.",
+    "keyword": "personajes",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 231,
+    "type": "event",
+    "category": "tv",
+    "title": "Describe y Gana",
+    "mainText": "Describe una serie o película sin decir su nombre.",
+    "keyword": "descripcion",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 232,
+    "type": "event",
+    "category": "tv",
+    "title": "Duelo de Géneros",
+    "mainText": "Dos jugadores dicen géneros (acción, comedia, drama) sin repetir.",
+    "keyword": "genero",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 233,
+    "type": "event",
+    "category": "tv",
+    "title": "Memoria TV",
+    "mainText": "Se muestra una lista de títulos por 10 segundos y debes recordarlos.",
+    "keyword": "memoria",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 234,
+    "type": "event",
+    "category": "tv",
+    "title": "Duelo de Villanos",
+    "mainText": "Dos jugadores nombran villanos sin repetir.",
+    "keyword": "villanos",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 235,
+    "type": "event",
+    "category": "tv",
+    "title": "Adivina la Escena",
+    "mainText": "Se describe una escena famosa y debes identificar la serie o película.",
+    "keyword": "escena",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 236,
+    "type": "event",
+    "category": "tv",
+    "title": "Duelo de Actores",
+    "mainText": "Dos jugadores dicen actores sin repetir.",
+    "keyword": "actores",
+    "reward": "El perdedor da 1000 subs al ganador"
+  },
+  {
+    "id": 237,
+    "type": "event",
+    "category": "tv",
+    "title": "Modo Crítico",
+    "mainText": "Explica por qué una película o serie es buena en 30 segundos.",
+    "keyword": "critica",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 238,
+    "type": "event",
+    "category": "tv",
+    "title": "Ranking Cine",
+    "mainText": "Ordena películas o series según preferencia en 30 segundos.",
+    "keyword": "ranking",
+    "reward": "+6000 subs"
+  },
+  {
+    "id": 239,
+    "type": "event",
+    "category": "tv",
+    "title": "Duelo Final",
+    "mainText": "Dos jugadores responden preguntas rápidas. El primero en fallar pierde.",
+    "keyword": "duelo",
+    "reward": "El perdedor da 2000 subs al ganador"
+  },
+  {
+    "id": 240,
+    "type": "event",
+    "category": "tv",
+    "title": "Imita Personaje",
+    "mainText": "Imita un personaje y los demás deben adivinar.",
+    "keyword": "actuar",
+    "reward": "+6000 subs"
+  }
+]
